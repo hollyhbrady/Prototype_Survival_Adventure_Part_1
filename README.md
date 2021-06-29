@@ -1,5 +1,5 @@
 # Prototype_Survival_Adventure_Part_1
-Prototype Text Adventure. Give it a play!
+Prototype Text Adventure in Java using terminal commands. Give it a play!
 
 Download, run Main and follow the command in your terminal.
 
