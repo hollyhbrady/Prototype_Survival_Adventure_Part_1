@@ -1,6 +1,13 @@
 # Prototype_Survival_Adventure_Part_1
-Prototype Text Adventure in Java using terminal commands. Give it a play!
+Text Adventure in Java using terminal commands. Give it a play!
 
-Download, run Main and follow the command in your terminal.
+1. Fork this repository and copy the url
+2. Clone to your files 
+3. *in your terminal* git clone *insert copied url* .
+4. Open in IntelliJ IDEA CE
+5. cd to Zombie_Survival_Adventure 
+6. Run Main 
+7. Follow the commands in your terminal
+8. Have fun and let me know any feedback!
 
-This was created as a protptype for a larger game to be played in a window, if you enjoyed this please check out my project!
+
